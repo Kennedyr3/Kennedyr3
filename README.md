@@ -1,6 +1,6 @@
 ### Kennedy  👨‍💻
 
-[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@nome)
+[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@)
 [![GitHub followers](https://img.shields.io/github/followers/Kennedyr3.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Kennedyr3?tab=followers)
 
 ----
