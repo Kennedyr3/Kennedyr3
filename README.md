@@ -1,4 +1,4 @@
-### Kennedy  👨‍💻
+<h2 align="center"> Kennedy  👨‍💻</h2>
 
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@)
 [![GitHub followers](https://img.shields.io/github/followers/Kennedyr3.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Kennedyr3?tab=followers)
@@ -7,7 +7,7 @@
 
 ### 💻:keyboard: Languages and Tools 
 
-**JavaScript**: 
+**JavaScript**:
   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Kennedyr3/frontend-birita)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Kennedyr3/frontend-birita)](https://github.com/Kennedyr3/frontend-birita) 
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Kennedyr3/frontend-birita)](https://github.com/Kennedyr3/frontend-birita) 
