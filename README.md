@@ -40,7 +40,12 @@ Olá! 👋 Sou Kennedy, um entusiasta de tecnologia apaixonado por desenvolvimen
 </table>
 
 ----
- 
+
+<div align="center">
+<br><p align="centre"><b>Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Carlos-CGS}/count.svg" /></p> 
+</div>
+
 <!--
 **Kennedyr3/Kennedyr3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -53,10 +58,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-<div align="center">
-<br><p align="centre"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Carlos-CGS}/count.svg" /></p> 
-</div>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
