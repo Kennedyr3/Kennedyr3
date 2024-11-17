@@ -43,7 +43,7 @@ Olá! 👋 Sou Kennedy, um entusiasta de tecnologia apaixonado por desenvolvimen
 
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Carlos-CGS}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kennedyr3}/count.svg" /></p> 
 </div>
 
 <!--
