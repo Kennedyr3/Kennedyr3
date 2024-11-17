@@ -46,6 +46,8 @@ Olá! 👋 Sou Kennedy, um entusiasta de tecnologia apaixonado por desenvolvimen
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kennedyr3}/count.svg" /></p> 
 </div>
 
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
+
 <!--
 **Kennedyr3/Kennedyr3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
