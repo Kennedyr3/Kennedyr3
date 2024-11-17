@@ -5,7 +5,7 @@
 
 ----
 
-### 💻:keyboard: Languages and Tools 
+### 💻:keyboard: Languages and Tools
 
 **JavaScript**:
   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Kennedyr3/frontend-birita)
