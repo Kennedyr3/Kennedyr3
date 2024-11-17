@@ -28,8 +28,9 @@ Olá! 👋 Sou Kennedy, um entusiasta de tecnologia apaixonado por desenvolvimen
 <!--
 ![Kennedy github stats](https://github-readme-stats.vercel.app/api?username=kennedyr3&show_icons=true&theme=chartreuse-dark)
 -->
- <img align="right" height="165" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+ <img align="center" height="165" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
+## 📈 Minhas estatísticas
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
