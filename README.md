@@ -12,17 +12,13 @@
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Kennedyr3/frontend-birita)](https://github.com/Kennedyr3/frontend-birita) 
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Kennedyr3/frontend-birita)](https://github.com/Kennedyr3/frontend-birita) 
   [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/Kennedyr3/frontend-birita)](https://github.com/Kennedyr3/frontend-birita)
-  
+  ![Static Badge](https://img.shields.io/badge/Bitbucket-%23252525?logo=Bitbucket)
 ----
 
 <!--
 ![Kennedy github stats](https://github-readme-stats.vercel.app/api?username=kennedyr3&show_icons=true&theme=chartreuse-dark)
 -->
  <img align="right" height="165" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
- 
-<a href="https://github.com/kennedyr3">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedyr3&theme=chartreuse-vue&layout=compact" />
-</a>
 
 <table cellpadding="0">
   <tr style="padding: 0">
