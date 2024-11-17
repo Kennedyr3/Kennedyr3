@@ -23,13 +23,17 @@ Olá! 👋 Sou Kennedy, um entusiasta de tecnologia apaixonado por desenvolvimen
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap)
 
   ![Static Badge](https://img.shields.io/badge/GitHub-%23252525?logo=GitHub)
-  ![Static Badge](https://img.shields.io/badge/git-%23252525?logo=git)
+  ![Static Badge](https://img.shields.io/badge/Git-%23252525?logo=git)
+  ![Static Badge](https://img.shields.io/badge/Bitbucket-%23252525?logo=Bitbucket)
   ![Static Badge](https://img.shields.io/badge/AWS%20Amplify-%23252525?logo=AWS%20Amplify)
   ![Static Badge](https://img.shields.io/badge/AWS%20Lambda-%23252525?logo=AWS%20Lambda)
   ![Static Badge](https://img.shields.io/badge/Serverless-%23252525?logo=Serverless)
-  ![Static Badge](https://img.shields.io/badge/Bitbucket-%23252525?logo=Bitbucket)
+  ![Static Badge](https://img.shields.io/badge/Redux-%23292725?style=flat&logo=Redux)
   ![Static Badge](https://img.shields.io/badge/json-gray?style=flat&logo=json)
   ![Static Badge](https://img.shields.io/badge/vscode-blue?style=flat)
+
+  ![Static Badge](https://img.shields.io/badge/Figma-black?style=flat&logo=Figma)
+  ![Static Badge](https://img.shields.io/badge/Adobe%20XD-%234d093c?style=flat&logo=Adobe%20XD)
 
 </div>
 
