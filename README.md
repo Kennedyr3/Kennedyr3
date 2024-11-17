@@ -5,14 +5,32 @@
 
 ----
 
-### 💻:keyboard: Languages and Tools
+## 🛠️ Tecnologias & Ferramentas
 
 **JavaScript**:
   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Kennedyr3/frontend-birita)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Kennedyr3/frontend-birita)](https://github.com/Kennedyr3/frontend-birita) 
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Kennedyr3/frontend-birita)](https://github.com/Kennedyr3/frontend-birita) 
   [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/Kennedyr3/frontend-birita)](https://github.com/Kennedyr3/frontend-birita)
-  ![Static Badge](https://img.shields.io/badge/Bitbucket-%23252525?logo=Bitbucket)
+  ![Static Badge](https://img.shields.io/badge/React-%23252525?logo=React)
+
+![Static Badge](https://img.shields.io/badge/Next.js-%23252525?logo=next.js)
+
+![Static Badge](https://img.shields.io/badge/TypeScript-white?logo=typeScript)
+
+![Static Badge](https://img.shields.io/badge/Node.js-%23252525?logo=Node.js) 
+
+![Static Badge](https://img.shields.io/badge/GitHub-%23252525?logo=GitHub)
+
+![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%23252525?logo=Tailwind%20CSS)
+
+![Static Badge](https://img.shields.io/badge/AWS%20Amplify-%23252525?logo=AWS%20Amplify)
+
+![Static Badge](https://img.shields.io/badge/AWS%20Lambda-%23252525?logo=AWS%20Lambda)
+
+![Static Badge](https://img.shields.io/badge/Serverless-%23252525?logo=Serverless)
+
+![Static Badge](https://img.shields.io/badge/Bitbucket-%23252525?logo=Bitbucket)
 ----
 
 <!--
