@@ -1,6 +1,7 @@
-<h2 align="center"> Kennedy  👨‍💻</h2>
+# 🌟 Bem-vindo ao meu perfil do GitHub!
 
-[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@)
+Olá! 👋 Sou Kennedy, um entusiasta de tecnologia apaixonado por desenvolvimento de software, aprendizado contínuo e colaboração em projetos inovadores. 🚀
+
 [![GitHub followers](https://img.shields.io/github/followers/Kennedyr3.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Kennedyr3?tab=followers)
 
 ----
