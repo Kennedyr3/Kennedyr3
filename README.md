@@ -1,3 +1,4 @@
+<div align="center">
 # 🌟 Bem-vindo ao meu perfil do GitHub!
 
 Olá! 👋 Sou Kennedy, um entusiasta de tecnologia apaixonado por desenvolvimento de software, aprendizado contínuo e colaboração em projetos inovadores. 🚀
@@ -47,3 +48,4 @@ Olá! 👋 Sou Kennedy, um entusiasta de tecnologia apaixonado por desenvolvimen
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
+</div>
