@@ -8,12 +8,19 @@ Olá! 👋 Sou Kennedy, um entusiasta de tecnologia apaixonado por desenvolvimen
 
 ## 🛠️ Tecnologias & Ferramentas
 
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Kennedyr3/frontend-birita)
-  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Kennedyr3/frontend-birita)](https://github.com/Kennedyr3/frontend-birita)
+  ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=JavaScript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Kennedyr3/frontend-birita)](https://github.com/Kennedyr3/frontend-birita)
-  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/Kennedyr3/frontend-birita)](https://github.com/Kennedyr3/frontend-birita)
+
+<div align="center">
+  ![Static Badge](https://img.shields.io/badge/Frameworks-black?style=for-the-badge&logoColor=black)
+</div>
+  
   ![Static Badge](https://img.shields.io/badge/React-%23252525?logo=React)
+  ![Static Badge](https://img.shields.io/badge/React%20Native-%23252525?logo=React)
   ![Static Badge](https://img.shields.io/badge/Next.js-%23252525?logo=next.js)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap)
+  
   ![Static Badge](https://img.shields.io/badge/TypeScript-white?logo=typeScript)
   ![Static Badge](https://img.shields.io/badge/Node.js-%23252525?logo=Node.js)
   ![Static Badge](https://img.shields.io/badge/GitHub-%23252525?logo=GitHub)
@@ -22,6 +29,7 @@ Olá! 👋 Sou Kennedy, um entusiasta de tecnologia apaixonado por desenvolvimen
   ![Static Badge](https://img.shields.io/badge/AWS%20Lambda-%23252525?logo=AWS%20Lambda)
   ![Static Badge](https://img.shields.io/badge/Serverless-%23252525?logo=Serverless)
   ![Static Badge](https://img.shields.io/badge/Bitbucket-%23252525?logo=Bitbucket)
+
 
 ---
 <div align="center">
