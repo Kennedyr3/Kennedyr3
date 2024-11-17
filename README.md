@@ -2,7 +2,7 @@
 
 Olá! 👋 Sou Kennedy, um entusiasta de tecnologia apaixonado por desenvolvimento de software, aprendizado contínuo e colaboração em projetos inovadores. 🚀
 
-[![GitHub followers](https://img.shields.io/github/followers/Kennedyr3.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Kennedyr3?tab=followers)
+  [![GitHub followers](https://img.shields.io/github/followers/Kennedyr3.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Kennedyr3?tab=followers)
 
 ---
 
@@ -35,10 +35,6 @@ Olá! 👋 Sou Kennedy, um entusiasta de tecnologia apaixonado por desenvolvimen
 
 ---
 
-<div align="center">
-  <img align="center" height="165" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-</div>
-
 ## 📈 Minhas estatísticas
 
 <table cellpadding="0">
@@ -53,8 +49,10 @@ Olá! 👋 Sou Kennedy, um entusiasta de tecnologia apaixonado por desenvolvimen
 ---
 
 <div align="center">
-  <br><p align="centre"><b>Visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kennedyr3}/count.svg" /></p> 
+  <img align="center" height="165" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  
+  <br><p align="center"><b>Visitantes</b></p>  
+  <p><img src="https://profile-counter.glitch.me/{kennedyr3}/count.svg" /></p>
 </div>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
