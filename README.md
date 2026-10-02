@@ -1,62 +1,57 @@
-# 🌟 Bem-vindo ao meu perfil do GitHub!
-
-Olá! 👋 Sou Kennedy, um entusiasta de tecnologia apaixonado por desenvolvimento de software, aprendizado contínuo e colaboração em projetos inovadores. 🚀
-
-  [![GitHub followers](https://img.shields.io/github/followers/Kennedyr3.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Kennedyr3?tab=followers)
-
----
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Kennedy&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer&descSize=18&descAlignY=62&descColor=8b949e" width="100%"/>
 
-## 🛠️ Tecnologias & Ferramentas
+  <p align="center">
+    Desenvolvedor de Software focado em ecossistemas modernos de <b>JavaScript/TypeScript</b>, arquiteturas em nuvem e aplicações web & mobile performáticas.
+  </p>
 
-  ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=JavaScript)
-  ![Static Badge](https://img.shields.io/badge/TypeScript-white?logo=typeScript)
-  ![Static Badge](https://img.shields.io/badge/Node.js-%23252525?logo=Node.js)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Kennedyr3/frontend-birita)](https://github.com/Kennedyr3/frontend-birita)
-  ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%23252525?logo=Tailwind%20CSS)
-
-  ![Static Badge](https://img.shields.io/badge/React-%23252525?logo=React)
-  ![Static Badge](https://img.shields.io/badge/React%20Native-%23252525?logo=React)
-  ![Static Badge](https://img.shields.io/badge/Next.js-%23252525?logo=next.js)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap)
-
-  ![Static Badge](https://img.shields.io/badge/GitHub-%23252525?logo=GitHub)
-  ![Static Badge](https://img.shields.io/badge/Git-%23252525?logo=git)
-  ![Static Badge](https://img.shields.io/badge/Bitbucket-%23252525?logo=Bitbucket)
-  ![Static Badge](https://img.shields.io/badge/AWS%20Amplify-%23252525?logo=AWS%20Amplify)
-  ![Static Badge](https://img.shields.io/badge/AWS%20Lambda-%23252525?logo=AWS%20Lambda)
-  ![Static Badge](https://img.shields.io/badge/Serverless-%23252525?logo=Serverless)
-  ![Static Badge](https://img.shields.io/badge/Redux-%23292725?style=flat&logo=Redux)
-  ![Static Badge](https://img.shields.io/badge/json-gray?style=flat&logo=json)
-  ![Static Badge](https://img.shields.io/badge/vscode-blue?style=flat)
-
-  ![Static Badge](https://img.shields.io/badge/Figma-black?style=flat&logo=Figma)
-  ![Static Badge](https://img.shields.io/badge/Adobe%20XD-%234d093c?style=flat&logo=Adobe%20XD)
-
+  <p align="center">
+    <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:SEU_EMAIL@email.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/Kennedyr3?tab=followers">
+      <img src="https://img.shields.io/github/followers/Kennedyr3?style=flat-square&logo=github&label=Seguidores&color=24292e" alt="Seguidores" />
+    </a>
+  </p>
 </div>
 
 ---
 
-## 📈 Minhas estatísticas
+### 💻 Stack & Tecnologias
 
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=kennedyr3&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedyr3&layout=compact&theme=radical&custom_title=Languages"/></td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,html,css,redux,aws,git,github,figma&theme=dark" alt="Tecnologias" />
+  </a>
+</div>
+
+<br>
+
+<details>
+  <summary><b>Visualizar detalhes por categoria</b></summary>
+  <br>
+
+  - **Front-end & Mobile:** React, React Native, Next.js, Tailwind CSS, Redux
+  - **Back-end & Cloud:** Node.js, AWS (Amplify, Lambda), Serverless Architecture
+  - **Ferramentas & Design:** Git, GitHub, Bitbucket, Figma, Adobe XD
+</details>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/Kennedyr3">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kennedyr3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Kennedy's GitHub stats" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedyr3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  </a>
+</div>
 
 ---
 
 <div align="center">
-  <img align="center" height="165" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-  
-  <br><p align="center"><b>Visitantes</b></p>  
-  <p><img src="https://profile-counter.glitch.me/{kennedyr3}/count.svg" /></p>
+  <sub>Construído com foco em código limpo, performance e boas práticas.</sub>
 </div>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
