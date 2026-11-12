@@ -56,8 +56,8 @@
 
 <div align="center">
   <a href="https://github.com/Kennedyr3">
-    <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kennedyr3&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Kennedy's GitHub stats" />
-    <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kennedyr3&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kennedyr3&theme=github_dark" alt="Estatísticas" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kennedyr3&theme=github_dark" alt="Linguagens" />
   </a>
 </div>
 
